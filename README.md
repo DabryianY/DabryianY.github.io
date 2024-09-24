@@ -6,5 +6,4 @@
      -Growing Plants
 ## Websites I Recommend
      - [Recreation](https://www.recreation.gov) - This website is the federal government's centralized travel planning and reservation platform. It is very easy way to organize family trips.
-     -[Google](https://www.google.com) - I've learned that Google's       
-mission is to organize the world's information and make it universally accessible and useful. 
+     -[Google](https://www.google.com) - I've learned that Google's mission is to organize the world's information and make it universally accessible and useful. 
