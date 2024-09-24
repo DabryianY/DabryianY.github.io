@@ -1,5 +1,10 @@
-# DabryianY.github.io
-1.Yauheniya Dabryian ydabryian@my.waketech.edu
-2. my GitHub account: DabryianY
-3.description of the repository i created :DabryianY.github.io
-4.created both accounts GitHub and GitHub Desktop, created repository named "DabryianY.github.io" on the GitHub account and then cloned this repository to my local Git hub Desktop 
+# About Me
+## My Interests
+     -Computer Science
+     -Sourdough Bread
+     -Running Marathon
+     -Growing Plants
+## Websites I Recommend
+     - [Recreation](https://www.recreation.gov) - This website is the federal government's centralized travel planning and reservation platform. It is very easy way to organize family trips.
+     -[Google](https://www.google.com) - I've learned that Google's       
+mission is to organize the world's information and make it universally accessible and useful. 
