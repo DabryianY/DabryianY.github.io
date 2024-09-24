@@ -1,5 +1,5 @@
 # About Me
-My name is Yauheniya Dabryian. I was born in Republic of Belarus  in 1985.
+My name is Yauheniya Dabryian. I was born in Republic of Belarus  in 1985. I came from Cosmetology background and now I am learning new, very interesting tool in IT career like Markdown and Mermaid.  
 ## My Interests
      -Computer Science
      -Sourdough Bread
